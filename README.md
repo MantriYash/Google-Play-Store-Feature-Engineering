@@ -1,8 +1,8 @@
-##Project Description
+## Project Description
 This project performs a comprehensive Exploratory Data Analysis (EDA) and Feature Engineering on the Google Play Store Dataset.
 The goal is to clean messy data, engineer meaningful features, and prepare the dataset for deeper analysis and potential machine learning modeling.
  
-###Skills & Processes Demonstrated
+### Skills & Processes Demonstrated
 --Data Cleaning & Preprocessing
 --Handling Missing and Invalid Values
 --String Manipulation and Conversion
@@ -12,12 +12,12 @@ The goal is to clean messy data, engineer meaningful features, and prepare the d
 --Working with Time-Series Data
 --Preparing Data for ML Models
 
-###Dataset
+### Dataset
 Source: Google Play Store Dataset (CSV):https://raw.githubusercontent.com/krishnaik06/playstore-Dataset/main/googleplaystore.csv
 
 Fields: App Name, Category, Rating, Reviews, Size, Installs, Price, Type, Content Rating, Genres, Last Updated, Current Version, Android Version.
 
-##Improvements and Future Work
+## Improvements and Future Work
 --Advanced Cleaning: Handle missing values in Size with predictive imputation rather than dropping or ignoring.
 --Data Visualization: Create interactive visualizations using libraries like Plotly or Altair.
 --Statistical Analysis: Explore correlation between app size, installs, and ratings.
